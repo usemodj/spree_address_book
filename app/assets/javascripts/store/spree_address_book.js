@@ -1,4 +1,4 @@
-//= require store/spree_core
+//= require spree
 
 (function($) {
   $(document).ready(function(){
